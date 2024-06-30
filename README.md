@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # App2FA
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# 2FA-App
+A two factor authetification app developed in Angular
+>>>>>>> 485a71268d79d17659ad6fa0757a32843b82229d
